@@ -1,4 +1,4 @@
-# GeoTrack — Offline-First Android Geofencing & Attendance Tracking Engine
+# GeoTracker — Offline First Android Geofencing & Attendance Tracking Engine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android_14+_Ready-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -11,15 +11,7 @@
 
 ---
 
-## Overview
-
-**GeoTrack** is a high-performance, offline-first Android location tracking and automated workforce attendance engine built with **Jetpack Compose**, **Google Play Services Location API**, **Room SQLite**, and **Firebase Cloud Firestore**. 
-
-It provides seamless geofencing boundary monitoring, zero-battery-drain background transitions, real-time interactive mapping with MapTiler, Wi-Fi network validation for anti-spoofing, and automated background synchronization via Jetpack WorkManager.
-
----
-
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Automated Geofence Engine & Boundary Monitoring (`Geofence`)
 - **Hardware-Level Geofencing**: Powered by Google Play Services `GeofencingClient` for ultra-low battery footprint enter, exit, and dwell triggers.
@@ -70,4 +62,3 @@ It provides seamless geofencing boundary monitoring, zero-battery-drain backgrou
 
 ---
 
-## 📂 Project Structure
